@@ -1,0 +1,66 @@
+Protel Design System Design Rule Check
+PCB File : F:\Desktop\PWR_Supply\PCB1.PcbDoc
+Date     : 2020/7/1
+Time     : 15:45:52
+
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (InPolygon),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=12mil) (Max=100mil) (Preferred=12mil) (InNetClass('PWR'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint: (173.228mil > 100mil) Pad P1-1(2850mil,4665mil) on Multi-Layer Actual Hole Size = 173.228mil
+   Violation between Hole Size Constraint: (173.228mil > 100mil) Pad P1-2(3133.465mil,4665mil) on Multi-Layer Actual Hole Size = 173.228mil
+   Violation between Hole Size Constraint: (173.228mil > 100mil) Pad P15-1(4523.268mil,4665mil) on Multi-Layer Actual Hole Size = 173.228mil
+   Violation between Hole Size Constraint: (173.228mil > 100mil) Pad P15-2(4806.732mil,4665mil) on Multi-Layer Actual Hole Size = 173.228mil
+   Violation between Hole Size Constraint: (173.228mil > 100mil) Pad P16-1(3768.268mil,4665mil) on Multi-Layer Actual Hole Size = 173.228mil
+   Violation between Hole Size Constraint: (173.228mil > 100mil) Pad P16-2(4051.732mil,4665mil) on Multi-Layer Actual Hole Size = 173.228mil
+   Violation between Hole Size Constraint: (173.228mil > 100mil) Pad P2-1(5436.535mil,4665mil) on Multi-Layer Actual Hole Size = 173.228mil
+   Violation between Hole Size Constraint: (173.228mil > 100mil) Pad P2-2(5720mil,4665mil) on Multi-Layer Actual Hole Size = 173.228mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Via (2610mil,2512.795mil) from Top Layer to Bottom Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Via (2610mil,4875mil) from Top Layer to Bottom Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Via (5894.567mil,2512.795mil) from Top Layer to Bottom Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Via (5894.567mil,4875mil) from Top Layer to Bottom Layer Actual Hole Size = 118.11mil
+Rule Violations :12
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 12
+Waived Violations : 0
+Time Elapsed        : 00:00:01
