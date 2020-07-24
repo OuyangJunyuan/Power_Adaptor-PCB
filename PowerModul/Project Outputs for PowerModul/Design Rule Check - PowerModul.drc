@@ -1,0 +1,350 @@
+Protel Design System Design Rule Check
+PCB File : D:\GitWS\git-repository\ee\PCB\PowerModul\V3\PowerModul\PowerModul.PcbDoc
+Date     : 2020/7/17
+Time     : 12:21:01
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Isolated copper: Split Plane  (+5) on Layer 1. Dead copper detected. Copper area is : 1.295 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 0.086 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 0.103 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 0.103 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 0.307 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 1.25 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 1.724 sq. mm
+Rule Violations :7
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.203mm) (Max=2.54mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.152mm) (Max=2.54mm) (All)
+   Violation between Hole Size Constraint: (3.5mm > 2.54mm) Pad Free-(172.048mm,124.375mm) on Multi-Layer Actual Hole Size = 3.5mm
+   Violation between Hole Size Constraint: (3.5mm > 2.54mm) Pad Free-(172.81mm,33.189mm) on Multi-Layer Actual Hole Size = 3.5mm
+   Violation between Hole Size Constraint: (3.5mm > 2.54mm) Pad Free-(262.726mm,32.681mm) on Multi-Layer Actual Hole Size = 3.5mm
+   Violation between Hole Size Constraint: (3.5mm > 2.54mm) Pad Free-(262.98mm,124.883mm) on Multi-Layer Actual Hole Size = 3.5mm
+   Violation between Hole Size Constraint: (4.4mm > 2.54mm) Pad H19-1(193.097mm,42.333mm) on Multi-Layer Actual Hole Size = 4.4mm
+   Violation between Hole Size Constraint: (4.4mm > 2.54mm) Pad H19-2(200.297mm,42.333mm) on Multi-Layer Actual Hole Size = 4.4mm
+   Violation between Hole Size Constraint: (4.4mm > 2.54mm) Pad H20-1(181.236mm,42.333mm) on Multi-Layer Actual Hole Size = 4.4mm
+   Violation between Hole Size Constraint: (4.4mm > 2.54mm) Pad H20-2(174.036mm,42.333mm) on Multi-Layer Actual Hole Size = 4.4mm
+   Violation between Hole Size Constraint: (4.4mm > 2.54mm) Pad H21-1(193.097mm,52.493mm) on Multi-Layer Actual Hole Size = 4.4mm
+   Violation between Hole Size Constraint: (4.4mm > 2.54mm) Pad H21-2(200.297mm,52.493mm) on Multi-Layer Actual Hole Size = 4.4mm
+   Violation between Hole Size Constraint: (4.4mm > 2.54mm) Pad H22-1(181.549mm,72.813mm) on Multi-Layer Actual Hole Size = 4.4mm
+   Violation between Hole Size Constraint: (4.4mm > 2.54mm) Pad H22-2(174.349mm,72.813mm) on Multi-Layer Actual Hole Size = 4.4mm
+   Violation between Hole Size Constraint: (4.4mm > 2.54mm) Pad H23-1(193.351mm,62.399mm) on Multi-Layer Actual Hole Size = 4.4mm
+   Violation between Hole Size Constraint: (4.4mm > 2.54mm) Pad H23-2(200.551mm,62.399mm) on Multi-Layer Actual Hole Size = 4.4mm
+   Violation between Hole Size Constraint: (4.4mm > 2.54mm) Pad H24-1(193.351mm,72.813mm) on Multi-Layer Actual Hole Size = 4.4mm
+   Violation between Hole Size Constraint: (4.4mm > 2.54mm) Pad H24-2(200.551mm,72.813mm) on Multi-Layer Actual Hole Size = 4.4mm
+   Violation between Hole Size Constraint: (4.4mm > 2.54mm) Pad H32-1(241.688mm,62.145mm) on Multi-Layer Actual Hole Size = 4.4mm
+   Violation between Hole Size Constraint: (4.4mm > 2.54mm) Pad H32-2(234.488mm,62.145mm) on Multi-Layer Actual Hole Size = 4.4mm
+   Violation between Hole Size Constraint: (4.4mm > 2.54mm) Pad H33-1(241.688mm,52.239mm) on Multi-Layer Actual Hole Size = 4.4mm
+   Violation between Hole Size Constraint: (4.4mm > 2.54mm) Pad H33-2(234.488mm,52.239mm) on Multi-Layer Actual Hole Size = 4.4mm
+   Violation between Hole Size Constraint: (4.4mm > 2.54mm) Pad H34-1(241.644mm,72.559mm) on Multi-Layer Actual Hole Size = 4.4mm
+   Violation between Hole Size Constraint: (4.4mm > 2.54mm) Pad H34-2(234.444mm,72.559mm) on Multi-Layer Actual Hole Size = 4.4mm
+   Violation between Hole Size Constraint: (4.4mm > 2.54mm) Pad H35-1(253.538mm,72.559mm) on Multi-Layer Actual Hole Size = 4.4mm
+   Violation between Hole Size Constraint: (4.4mm > 2.54mm) Pad H35-2(260.738mm,72.559mm) on Multi-Layer Actual Hole Size = 4.4mm
+   Violation between Hole Size Constraint: (4.4mm > 2.54mm) Pad H36-1(253.538mm,42.333mm) on Multi-Layer Actual Hole Size = 4.4mm
+   Violation between Hole Size Constraint: (4.4mm > 2.54mm) Pad H36-2(260.738mm,42.333mm) on Multi-Layer Actual Hole Size = 4.4mm
+   Violation between Hole Size Constraint: (4.4mm > 2.54mm) Pad H37-1(241.688mm,42.333mm) on Multi-Layer Actual Hole Size = 4.4mm
+   Violation between Hole Size Constraint: (4.4mm > 2.54mm) Pad H37-2(234.488mm,42.333mm) on Multi-Layer Actual Hole Size = 4.4mm
+   Violation between Hole Size Constraint: (2.6mm > 2.54mm) Pad H38-1(220.479mm,112.358mm) on Multi-Layer Actual Hole Size = 2.6mm
+   Violation between Hole Size Constraint: (2.6mm > 2.54mm) Pad H38-2(213.279mm,112.358mm) on Multi-Layer Actual Hole Size = 2.6mm
+   Violation between Hole Size Constraint: (2.6mm > 2.54mm) Pad H39-1(183.949mm,61.427mm) on Multi-Layer Actual Hole Size = 2.6mm
+   Violation between Hole Size Constraint: (2.6mm > 2.54mm) Pad H39-2(183.949mm,54.227mm) on Multi-Layer Actual Hole Size = 2.6mm
+   Violation between Hole Size Constraint: (2.6mm > 2.54mm) Pad H40-1(251.171mm,53.573mm) on Multi-Layer Actual Hole Size = 2.6mm
+   Violation between Hole Size Constraint: (2.6mm > 2.54mm) Pad H40-2(251.171mm,60.773mm) on Multi-Layer Actual Hole Size = 2.6mm
+Rule Violations :34
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+   Violation between Hole To Hole Clearance Constraint: (0.078mm < 0.254mm) Between Pad H10-1(176.277mm,96.706mm) on Multi-Layer And Via (175.007mm,96.849mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.013mm < 0.254mm) Between Pad H10-1(176.277mm,96.706mm) on Multi-Layer And Via (175.388mm,95.881mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H10-1(176.277mm,96.706mm) on Multi-Layer And Via (175.388mm,97.722mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H10-1(176.277mm,96.706mm) on Multi-Layer And Via (176.277mm,95.436mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.197mm < 0.254mm) Between Pad H10-1(176.277mm,96.706mm) on Multi-Layer And Via (176.277mm,98.103mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.057mm < 0.254mm) Between Pad H10-1(176.277mm,96.706mm) on Multi-Layer And Via (177.166mm,95.817mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H10-1(176.277mm,96.706mm) on Multi-Layer And Via (177.166mm,97.722mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H10-1(176.277mm,96.706mm) on Multi-Layer And Via (177.547mm,96.706mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.078mm < 0.254mm) Between Pad H10-2(171.277mm,96.706mm) on Multi-Layer And Via (170.007mm,96.849mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.013mm < 0.254mm) Between Pad H10-2(171.277mm,96.706mm) on Multi-Layer And Via (170.388mm,95.881mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H10-2(171.277mm,96.706mm) on Multi-Layer And Via (170.388mm,97.722mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H10-2(171.277mm,96.706mm) on Multi-Layer And Via (171.277mm,95.436mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.197mm < 0.254mm) Between Pad H10-2(171.277mm,96.706mm) on Multi-Layer And Via (171.277mm,98.103mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.057mm < 0.254mm) Between Pad H10-2(171.277mm,96.706mm) on Multi-Layer And Via (172.166mm,95.817mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H10-2(171.277mm,96.706mm) on Multi-Layer And Via (172.166mm,97.722mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H10-2(171.277mm,96.706mm) on Multi-Layer And Via (172.547mm,96.706mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.078mm < 0.254mm) Between Pad H1-1(258.497mm,95.991mm) on Multi-Layer And Via (257.227mm,96.134mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.013mm < 0.254mm) Between Pad H1-1(258.497mm,95.991mm) on Multi-Layer And Via (257.608mm,95.165mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H1-1(258.497mm,95.991mm) on Multi-Layer And Via (257.608mm,97.007mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H1-1(258.497mm,95.991mm) on Multi-Layer And Via (258.497mm,94.721mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.197mm < 0.254mm) Between Pad H1-1(258.497mm,95.991mm) on Multi-Layer And Via (258.497mm,97.388mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.057mm < 0.254mm) Between Pad H1-1(258.497mm,95.991mm) on Multi-Layer And Via (259.386mm,95.102mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H1-1(258.497mm,95.991mm) on Multi-Layer And Via (259.386mm,97.007mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H1-1(258.497mm,95.991mm) on Multi-Layer And Via (259.767mm,95.991mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.078mm < 0.254mm) Between Pad H11-1(176.277mm,104.706mm) on Multi-Layer And Via (175.007mm,104.849mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.013mm < 0.254mm) Between Pad H11-1(176.277mm,104.706mm) on Multi-Layer And Via (175.388mm,103.881mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H11-1(176.277mm,104.706mm) on Multi-Layer And Via (175.388mm,105.722mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H11-1(176.277mm,104.706mm) on Multi-Layer And Via (176.277mm,103.436mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.197mm < 0.254mm) Between Pad H11-1(176.277mm,104.706mm) on Multi-Layer And Via (176.277mm,106.103mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.057mm < 0.254mm) Between Pad H11-1(176.277mm,104.706mm) on Multi-Layer And Via (177.166mm,103.817mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H11-1(176.277mm,104.706mm) on Multi-Layer And Via (177.166mm,105.722mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H11-1(176.277mm,104.706mm) on Multi-Layer And Via (177.547mm,104.706mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.078mm < 0.254mm) Between Pad H11-2(171.277mm,104.706mm) on Multi-Layer And Via (170.007mm,104.849mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.013mm < 0.254mm) Between Pad H11-2(171.277mm,104.706mm) on Multi-Layer And Via (170.388mm,103.881mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H11-2(171.277mm,104.706mm) on Multi-Layer And Via (170.388mm,105.722mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H11-2(171.277mm,104.706mm) on Multi-Layer And Via (171.277mm,103.436mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.197mm < 0.254mm) Between Pad H11-2(171.277mm,104.706mm) on Multi-Layer And Via (171.277mm,106.103mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.057mm < 0.254mm) Between Pad H11-2(171.277mm,104.706mm) on Multi-Layer And Via (172.166mm,103.817mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H11-2(171.277mm,104.706mm) on Multi-Layer And Via (172.166mm,105.722mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H11-2(171.277mm,104.706mm) on Multi-Layer And Via (172.547mm,104.706mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.078mm < 0.254mm) Between Pad H1-2(263.497mm,95.991mm) on Multi-Layer And Via (262.227mm,96.134mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.013mm < 0.254mm) Between Pad H1-2(263.497mm,95.991mm) on Multi-Layer And Via (262.608mm,95.165mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H1-2(263.497mm,95.991mm) on Multi-Layer And Via (262.608mm,97.007mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H1-2(263.497mm,95.991mm) on Multi-Layer And Via (263.497mm,94.721mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.197mm < 0.254mm) Between Pad H1-2(263.497mm,95.991mm) on Multi-Layer And Via (263.497mm,97.388mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.057mm < 0.254mm) Between Pad H1-2(263.497mm,95.991mm) on Multi-Layer And Via (264.386mm,95.102mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H1-2(263.497mm,95.991mm) on Multi-Layer And Via (264.386mm,97.007mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H1-2(263.497mm,95.991mm) on Multi-Layer And Via (264.767mm,95.991mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.078mm < 0.254mm) Between Pad H12-1(176.277mm,112.706mm) on Multi-Layer And Via (175.007mm,112.849mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.013mm < 0.254mm) Between Pad H12-1(176.277mm,112.706mm) on Multi-Layer And Via (175.388mm,111.881mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H12-1(176.277mm,112.706mm) on Multi-Layer And Via (175.388mm,113.722mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H12-1(176.277mm,112.706mm) on Multi-Layer And Via (176.277mm,111.436mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.197mm < 0.254mm) Between Pad H12-1(176.277mm,112.706mm) on Multi-Layer And Via (176.277mm,114.103mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.057mm < 0.254mm) Between Pad H12-1(176.277mm,112.706mm) on Multi-Layer And Via (177.166mm,111.817mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H12-1(176.277mm,112.706mm) on Multi-Layer And Via (177.166mm,113.722mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H12-1(176.277mm,112.706mm) on Multi-Layer And Via (177.547mm,112.706mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.078mm < 0.254mm) Between Pad H12-2(171.277mm,112.706mm) on Multi-Layer And Via (170.007mm,112.849mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.013mm < 0.254mm) Between Pad H12-2(171.277mm,112.706mm) on Multi-Layer And Via (170.388mm,111.881mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H12-2(171.277mm,112.706mm) on Multi-Layer And Via (170.388mm,113.722mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H12-2(171.277mm,112.706mm) on Multi-Layer And Via (171.277mm,111.436mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.197mm < 0.254mm) Between Pad H12-2(171.277mm,112.706mm) on Multi-Layer And Via (171.277mm,114.103mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.057mm < 0.254mm) Between Pad H12-2(171.277mm,112.706mm) on Multi-Layer And Via (172.166mm,111.817mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H12-2(171.277mm,112.706mm) on Multi-Layer And Via (172.166mm,113.722mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H12-2(171.277mm,112.706mm) on Multi-Layer And Via (172.547mm,112.706mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H20-1(181.236mm,42.333mm) on Multi-Layer And Via (179.541mm,44.238mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.078mm < 0.254mm) Between Pad H2-1(258.497mm,103.834mm) on Multi-Layer And Via (257.227mm,103.977mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.013mm < 0.254mm) Between Pad H2-1(258.497mm,103.834mm) on Multi-Layer And Via (257.608mm,103.008mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H2-1(258.497mm,103.834mm) on Multi-Layer And Via (257.608mm,104.85mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H2-1(258.497mm,103.834mm) on Multi-Layer And Via (258.497mm,102.564mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.197mm < 0.254mm) Between Pad H2-1(258.497mm,103.834mm) on Multi-Layer And Via (258.497mm,105.231mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.057mm < 0.254mm) Between Pad H2-1(258.497mm,103.834mm) on Multi-Layer And Via (259.386mm,102.945mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H2-1(258.497mm,103.834mm) on Multi-Layer And Via (259.386mm,104.85mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H2-1(258.497mm,103.834mm) on Multi-Layer And Via (259.767mm,103.834mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.078mm < 0.254mm) Between Pad H2-2(263.497mm,103.834mm) on Multi-Layer And Via (262.227mm,103.977mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.013mm < 0.254mm) Between Pad H2-2(263.497mm,103.834mm) on Multi-Layer And Via (262.608mm,103.008mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H2-2(263.497mm,103.834mm) on Multi-Layer And Via (262.608mm,104.85mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H2-2(263.497mm,103.834mm) on Multi-Layer And Via (263.497mm,102.564mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.197mm < 0.254mm) Between Pad H2-2(263.497mm,103.834mm) on Multi-Layer And Via (263.497mm,105.231mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.057mm < 0.254mm) Between Pad H2-2(263.497mm,103.834mm) on Multi-Layer And Via (264.386mm,102.945mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H2-2(263.497mm,103.834mm) on Multi-Layer And Via (264.386mm,104.85mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H2-2(263.497mm,103.834mm) on Multi-Layer And Via (264.767mm,103.834mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H22-1(181.549mm,72.813mm) on Multi-Layer And Via (181.326mm,70.273mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.078mm < 0.254mm) Between Pad H22-1(181.549mm,72.813mm) on Multi-Layer And Via (183.275mm,71.035mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.101mm < 0.254mm) Between Pad H22-1(181.549mm,72.813mm) on Multi-Layer And Via (184.037mm,73.067mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.232mm < 0.254mm) Between Pad H23-2(200.551mm,62.399mm) on Multi-Layer And Via (202.223mm,60.367mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.135mm < 0.254mm) Between Pad H23-2(200.551mm,62.399mm) on Multi-Layer And Via (202.223mm,64.304mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.034mm < 0.254mm) Between Pad H23-2(200.551mm,62.399mm) on Multi-Layer And Via (202.985mm,62.399mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.078mm < 0.254mm) Between Pad H3-1(258.497mm,111.833mm) on Multi-Layer And Via (257.227mm,111.976mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.013mm < 0.254mm) Between Pad H3-1(258.497mm,111.833mm) on Multi-Layer And Via (257.608mm,111.008mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H3-1(258.497mm,111.833mm) on Multi-Layer And Via (257.608mm,112.849mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H3-1(258.497mm,111.833mm) on Multi-Layer And Via (258.497mm,110.563mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.197mm < 0.254mm) Between Pad H3-1(258.497mm,111.833mm) on Multi-Layer And Via (258.497mm,113.23mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.057mm < 0.254mm) Between Pad H3-1(258.497mm,111.833mm) on Multi-Layer And Via (259.386mm,110.944mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H3-1(258.497mm,111.833mm) on Multi-Layer And Via (259.386mm,112.849mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H3-1(258.497mm,111.833mm) on Multi-Layer And Via (259.767mm,111.833mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.078mm < 0.254mm) Between Pad H3-2(263.497mm,111.833mm) on Multi-Layer And Via (262.227mm,111.976mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.013mm < 0.254mm) Between Pad H3-2(263.497mm,111.833mm) on Multi-Layer And Via (262.608mm,111.008mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H3-2(263.497mm,111.833mm) on Multi-Layer And Via (262.608mm,112.849mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H3-2(263.497mm,111.833mm) on Multi-Layer And Via (263.497mm,110.563mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.197mm < 0.254mm) Between Pad H3-2(263.497mm,111.833mm) on Multi-Layer And Via (263.497mm,113.23mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.057mm < 0.254mm) Between Pad H3-2(263.497mm,111.833mm) on Multi-Layer And Via (264.386mm,110.944mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H3-2(263.497mm,111.833mm) on Multi-Layer And Via (264.386mm,112.849mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H3-2(263.497mm,111.833mm) on Multi-Layer And Via (264.767mm,111.833mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.147mm < 0.254mm) Between Pad H33-1(241.688mm,52.239mm) on Multi-Layer And Via (241.556mm,49.695mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.145mm < 0.254mm) Between Pad H33-1(241.688mm,52.239mm) on Multi-Layer And Via (243.505mm,50.457mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.191mm < 0.254mm) Between Pad H33-1(241.688mm,52.239mm) on Multi-Layer And Via (244.267mm,52.489mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.246mm < 0.254mm) Between Pad H36-1(253.538mm,42.333mm) on Multi-Layer And Via (255.233mm,40.301mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H36-1(253.538mm,42.333mm) on Multi-Layer And Via (255.233mm,44.238mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.057mm < 0.254mm) Between Pad H36-1(253.538mm,42.333mm) on Multi-Layer And Via (255.995mm,42.333mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.061mm < 0.254mm) Between Pad H36-2(260.738mm,42.333mm) on Multi-Layer And Via (258.916mm,43.988mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.144mm < 0.254mm) Between Pad H36-2(260.738mm,42.333mm) on Multi-Layer And Via (260.694mm,44.877mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.187mm < 0.254mm) Between Pad H36-2(260.738mm,42.333mm) on Multi-Layer And Via (262.726mm,43.988mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.2mm < 0.254mm) Between Pad H38-2(213.279mm,112.358mm) on Multi-Layer And Via (214.974mm,112.231mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.009mm < 0.254mm) Between Pad H4-1(230.138mm,125.138mm) on Multi-Layer And Via (228.93mm,125.07mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.056mm < 0.254mm) Between Pad H4-1(230.138mm,125.138mm) on Multi-Layer And Via (229.21mm,125.984mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.007mm < 0.254mm) Between Pad H4-1(230.138mm,125.138mm) on Multi-Layer And Via (229.286mm,124.282mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.254mm) Between Pad H4-1(230.138mm,125.138mm) on Multi-Layer And Via (230.138mm,126.314mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (0.092mm < 0.254mm) Between Pad H4-1(230.138mm,125.138mm) on Multi-Layer And Via (230.251mm,123.85mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.254mm) Between Pad H4-1(230.138mm,125.138mm) on Multi-Layer And Via (230.962mm,125.933mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (0.078mm < 0.254mm) Between Pad H4-1(230.138mm,125.138mm) on Multi-Layer And Via (231.064mm,124.257mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.254mm) Between Pad H4-1(230.138mm,125.138mm) on Multi-Layer And Via (231.318mm,125.171mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (0.106mm < 0.254mm) Between Pad H4-2(235.138mm,125.138mm) on Multi-Layer And Via (233.832mm,125.171mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.04mm < 0.254mm) Between Pad H4-2(235.138mm,125.138mm) on Multi-Layer And Via (234.264mm,124.257mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.254mm) Between Pad H4-2(235.138mm,125.138mm) on Multi-Layer And Via (234.29mm,125.984mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.254mm) Between Pad H4-2(235.138mm,125.138mm) on Multi-Layer And Via (235.204mm,123.952mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (0.008mm < 0.254mm) Between Pad H4-2(235.138mm,125.138mm) on Multi-Layer And Via (235.255mm,126.34mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.254mm) Between Pad H4-2(235.138mm,125.138mm) on Multi-Layer And Via (236.042mm,124.435mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (0.011mm < 0.254mm) Between Pad H4-2(235.138mm,125.138mm) on Multi-Layer And Via (236.093mm,125.882mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.138mm < 0.254mm) Between Pad H4-2(235.138mm,125.138mm) on Multi-Layer And Via (236.474mm,125.07mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.078mm < 0.254mm) Between Pad H5-1(219.251mm,106.341mm) on Multi-Layer And Via (217.981mm,106.484mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.013mm < 0.254mm) Between Pad H5-1(219.251mm,106.341mm) on Multi-Layer And Via (218.362mm,105.516mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H5-1(219.251mm,106.341mm) on Multi-Layer And Via (218.362mm,107.357mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H5-1(219.251mm,106.341mm) on Multi-Layer And Via (219.251mm,105.071mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.197mm < 0.254mm) Between Pad H5-1(219.251mm,106.341mm) on Multi-Layer And Via (219.251mm,107.738mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.057mm < 0.254mm) Between Pad H5-1(219.251mm,106.341mm) on Multi-Layer And Via (220.14mm,105.452mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H5-1(219.251mm,106.341mm) on Multi-Layer And Via (220.14mm,107.357mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H5-1(219.251mm,106.341mm) on Multi-Layer And Via (220.521mm,106.341mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.078mm < 0.254mm) Between Pad H5-2(214.251mm,106.341mm) on Multi-Layer And Via (212.981mm,106.484mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.013mm < 0.254mm) Between Pad H5-2(214.251mm,106.341mm) on Multi-Layer And Via (213.362mm,105.516mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H5-2(214.251mm,106.341mm) on Multi-Layer And Via (213.362mm,107.357mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H5-2(214.251mm,106.341mm) on Multi-Layer And Via (214.251mm,105.071mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.197mm < 0.254mm) Between Pad H5-2(214.251mm,106.341mm) on Multi-Layer And Via (214.251mm,107.738mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.057mm < 0.254mm) Between Pad H5-2(214.251mm,106.341mm) on Multi-Layer And Via (215.14mm,105.452mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H5-2(214.251mm,106.341mm) on Multi-Layer And Via (215.14mm,107.357mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H5-2(214.251mm,106.341mm) on Multi-Layer And Via (215.521mm,106.341mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.062mm < 0.254mm) Between Pad H6-1(230.04mm,118.533mm) on Multi-Layer And Via (228.778mm,118.542mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.028mm < 0.254mm) Between Pad H6-1(230.04mm,118.533mm) on Multi-Layer And Via (229.159mm,117.678mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.022mm < 0.254mm) Between Pad H6-1(230.04mm,118.533mm) on Multi-Layer And Via (229.159mm,119.38mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.002mm < 0.254mm) Between Pad H6-1(230.04mm,118.533mm) on Multi-Layer And Via (230.022mm,119.736mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.011mm < 0.254mm) Between Pad H6-1(230.04mm,118.533mm) on Multi-Layer And Via (230.073mm,117.323mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.016mm < 0.254mm) Between Pad H6-1(230.04mm,118.533mm) on Multi-Layer And Via (230.937mm,119.355mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.06mm < 0.254mm) Between Pad H6-1(230.04mm,118.533mm) on Multi-Layer And Via (230.988mm,117.704mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.003mm < 0.254mm) Between Pad H6-1(230.04mm,118.533mm) on Multi-Layer And Via (231.242mm,118.593mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.037mm < 0.254mm) Between Pad H6-2(235.04mm,118.533mm) on Multi-Layer And Via (233.807mm,118.44mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.075mm < 0.254mm) Between Pad H6-2(235.04mm,118.533mm) on Multi-Layer And Via (234.086mm,119.38mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.007mm < 0.254mm) Between Pad H6-2(235.04mm,118.533mm) on Multi-Layer And Via (234.188mm,117.678mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.011mm < 0.254mm) Between Pad H6-2(235.04mm,118.533mm) on Multi-Layer And Via (235.001mm,117.323mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.029mm < 0.254mm) Between Pad H6-2(235.04mm,118.533mm) on Multi-Layer And Via (235.102mm,119.761mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.019mm < 0.254mm) Between Pad H6-2(235.04mm,118.533mm) on Multi-Layer And Via (235.941mm,119.355mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.098mm < 0.254mm) Between Pad H6-2(235.04mm,118.533mm) on Multi-Layer And Via (236.017mm,117.678mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.056mm < 0.254mm) Between Pad H6-2(235.04mm,118.533mm) on Multi-Layer And Via (236.296mm,118.516mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.078mm < 0.254mm) Between Pad H7-1(219.251mm,99.991mm) on Multi-Layer And Via (217.981mm,100.134mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H7-1(219.251mm,99.991mm) on Multi-Layer And Via (218.362mm,101.007mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.013mm < 0.254mm) Between Pad H7-1(219.251mm,99.991mm) on Multi-Layer And Via (218.362mm,99.166mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.197mm < 0.254mm) Between Pad H7-1(219.251mm,99.991mm) on Multi-Layer And Via (219.251mm,101.388mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H7-1(219.251mm,99.991mm) on Multi-Layer And Via (219.251mm,98.721mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H7-1(219.251mm,99.991mm) on Multi-Layer And Via (220.14mm,101.007mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.057mm < 0.254mm) Between Pad H7-1(219.251mm,99.991mm) on Multi-Layer And Via (220.14mm,99.102mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H7-1(219.251mm,99.991mm) on Multi-Layer And Via (220.521mm,99.991mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.078mm < 0.254mm) Between Pad H7-2(214.251mm,99.991mm) on Multi-Layer And Via (212.981mm,100.134mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H7-2(214.251mm,99.991mm) on Multi-Layer And Via (213.362mm,101.007mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.013mm < 0.254mm) Between Pad H7-2(214.251mm,99.991mm) on Multi-Layer And Via (213.362mm,99.166mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.197mm < 0.254mm) Between Pad H7-2(214.251mm,99.991mm) on Multi-Layer And Via (214.251mm,101.388mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H7-2(214.251mm,99.991mm) on Multi-Layer And Via (214.251mm,98.721mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.15mm < 0.254mm) Between Pad H7-2(214.251mm,99.991mm) on Multi-Layer And Via (215.14mm,101.007mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.057mm < 0.254mm) Between Pad H7-2(214.251mm,99.991mm) on Multi-Layer And Via (215.14mm,99.102mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.07mm < 0.254mm) Between Pad H7-2(214.251mm,99.991mm) on Multi-Layer And Via (215.521mm,99.991mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.089mm < 0.254mm) Between Pad H8-1(203.515mm,118.542mm) on Multi-Layer And Via (202.233mm,118.676mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.027mm < 0.254mm) Between Pad H8-1(203.515mm,118.542mm) on Multi-Layer And Via (202.614mm,117.708mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.151mm < 0.254mm) Between Pad H8-1(203.515mm,118.542mm) on Multi-Layer And Via (202.614mm,119.549mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.078mm < 0.254mm) Between Pad H8-1(203.515mm,118.542mm) on Multi-Layer And Via (203.503mm,117.263mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.189mm < 0.254mm) Between Pad H8-1(203.515mm,118.542mm) on Multi-Layer And Via (203.503mm,119.93mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.055mm < 0.254mm) Between Pad H8-1(203.515mm,118.542mm) on Multi-Layer And Via (204.392mm,117.644mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.136mm < 0.254mm) Between Pad H8-1(203.515mm,118.542mm) on Multi-Layer And Via (204.392mm,119.549mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.058mm < 0.254mm) Between Pad H8-1(203.515mm,118.542mm) on Multi-Layer And Via (204.773mm,118.533mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.089mm < 0.254mm) Between Pad H8-2(198.515mm,118.542mm) on Multi-Layer And Via (197.233mm,118.676mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.027mm < 0.254mm) Between Pad H8-2(198.515mm,118.542mm) on Multi-Layer And Via (197.614mm,117.708mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.151mm < 0.254mm) Between Pad H8-2(198.515mm,118.542mm) on Multi-Layer And Via (197.614mm,119.549mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.078mm < 0.254mm) Between Pad H8-2(198.515mm,118.542mm) on Multi-Layer And Via (198.503mm,117.263mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.189mm < 0.254mm) Between Pad H8-2(198.515mm,118.542mm) on Multi-Layer And Via (198.503mm,119.93mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.055mm < 0.254mm) Between Pad H8-2(198.515mm,118.542mm) on Multi-Layer And Via (199.392mm,117.644mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.136mm < 0.254mm) Between Pad H8-2(198.515mm,118.542mm) on Multi-Layer And Via (199.392mm,119.549mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.058mm < 0.254mm) Between Pad H8-2(198.515mm,118.542mm) on Multi-Layer And Via (199.773mm,118.533mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.089mm < 0.254mm) Between Pad H9-1(203.515mm,124.993mm) on Multi-Layer And Via (202.235mm,125.146mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.254mm) Between Pad H9-1(203.515mm,124.993mm) on Multi-Layer And Via (202.616mm,124.206mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (0.101mm < 0.254mm) Between Pad H9-1(203.515mm,124.993mm) on Multi-Layer And Via (202.616mm,125.933mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.019mm < 0.254mm) Between Pad H9-1(203.515mm,124.993mm) on Multi-Layer And Via (203.505mm,123.774mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.096mm < 0.254mm) Between Pad H9-1(203.515mm,124.993mm) on Multi-Layer And Via (203.505mm,126.289mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.014mm < 0.254mm) Between Pad H9-1(203.515mm,124.993mm) on Multi-Layer And Via (204.394mm,124.155mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.05mm < 0.254mm) Between Pad H9-1(203.515mm,124.993mm) on Multi-Layer And Via (204.394mm,125.882mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.06mm < 0.254mm) Between Pad H9-1(203.515mm,124.993mm) on Multi-Layer And Via (204.775mm,125.019mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.09mm < 0.254mm) Between Pad H9-2(198.515mm,124.993mm) on Multi-Layer And Via (197.231mm,125.12mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.041mm < 0.254mm) Between Pad H9-2(198.515mm,124.993mm) on Multi-Layer And Via (197.536mm,124.231mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.094mm < 0.254mm) Between Pad H9-2(198.515mm,124.993mm) on Multi-Layer And Via (197.714mm,126.009mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.254mm) Between Pad H9-2(198.515mm,124.993mm) on Multi-Layer And Via (198.501mm,123.8mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (0.146mm < 0.254mm) Between Pad H9-2(198.515mm,124.993mm) on Multi-Layer And Via (198.501mm,126.34mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.118mm < 0.254mm) Between Pad H9-2(198.515mm,124.993mm) on Multi-Layer And Via (199.288mm,126.06mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.015mm < 0.254mm) Between Pad H9-2(198.515mm,124.993mm) on Multi-Layer And Via (199.441mm,124.206mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.057mm < 0.254mm) Between Pad H9-2(198.515mm,124.993mm) on Multi-Layer And Via (199.771mm,125.044mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (230.814mm,113.961mm) from Top Layer to Bottom Layer And Via (230.814mm,114.596mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.237mm < 0.254mm) Between Via (231.567mm,114.596mm) from Top Layer to Bottom Layer And Via (231.611mm,113.961mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (232.754mm,110.786mm) from Top Layer to Bottom Layer And Via (232.754mm,111.421mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (232.754mm,110.786mm) from Top Layer to Bottom Layer And Via (233.389mm,110.786mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (232.754mm,111.421mm) from Top Layer to Bottom Layer And Via (233.389mm,111.421mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (233.389mm,110.786mm) from Top Layer to Bottom Layer And Via (233.389mm,111.421mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (233.389mm,110.786mm) from Top Layer to Bottom Layer And Via (234.024mm,110.786mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (233.389mm,111.421mm) from Top Layer to Bottom Layer And Via (234.024mm,111.421mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.184mm < 0.254mm) Between Via (233.832mm,84.734mm) from Top Layer to Bottom Layer And Via (234.417mm,84.726mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (234.024mm,110.786mm) from Top Layer to Bottom Layer And Via (234.024mm,111.421mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (234.913mm,113.961mm) from Top Layer to Bottom Layer And Via (235.548mm,113.961mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (234.913mm,114.723mm) from Top Layer to Bottom Layer And Via (235.548mm,114.723mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (235.04mm,110.786mm) from Top Layer to Bottom Layer And Via (235.04mm,111.421mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (235.04mm,110.786mm) from Top Layer to Bottom Layer And Via (235.675mm,110.786mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (235.04mm,111.421mm) from Top Layer to Bottom Layer And Via (235.675mm,111.421mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (235.548mm,114.723mm) from Top Layer to Bottom Layer And Via (236.183mm,114.723mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (235.675mm,110.786mm) from Top Layer to Bottom Layer And Via (235.675mm,111.421mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (235.675mm,110.786mm) from Top Layer to Bottom Layer And Via (236.31mm,110.786mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (235.675mm,111.421mm) from Top Layer to Bottom Layer And Via (236.31mm,111.421mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (236.31mm,110.786mm) from Top Layer to Bottom Layer And Via (236.31mm,111.421mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (237.453mm,110.865mm) from Top Layer to Bottom Layer And Via (237.453mm,111.5mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (237.453mm,110.865mm) from Top Layer to Bottom Layer And Via (238.088mm,110.865mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (237.453mm,111.5mm) from Top Layer to Bottom Layer And Via (238.088mm,111.5mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (237.453mm,113.961mm) from Top Layer to Bottom Layer And Via (238.088mm,113.961mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (237.453mm,114.723mm) from Top Layer to Bottom Layer And Via (238.088mm,114.723mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (238.088mm,110.865mm) from Top Layer to Bottom Layer And Via (238.088mm,111.5mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (238.088mm,110.865mm) from Top Layer to Bottom Layer And Via (238.723mm,110.865mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (238.088mm,111.5mm) from Top Layer to Bottom Layer And Via (238.723mm,111.5mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.108mm < 0.254mm) Between Via (238.088mm,113.961mm) from Top Layer to Bottom Layer And Via (238.596mm,113.961mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.129mm < 0.254mm) Between Via (238.088mm,114.723mm) from Top Layer to Bottom Layer And Via (238.617mm,114.723mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (238.723mm,110.865mm) from Top Layer to Bottom Layer And Via (238.723mm,111.5mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.237mm < 0.254mm) Between Via (239.739mm,114.596mm) from Top Layer to Bottom Layer And Via (239.783mm,113.961mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (239.739mm,114.596mm) from Top Layer to Bottom Layer And Via (240.374mm,114.596mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.191mm < 0.254mm) Between Via (239.783mm,113.961mm) from Top Layer to Bottom Layer And Via (240.374mm,113.961mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (239.866mm,110.914mm) from Top Layer to Bottom Layer And Via (239.866mm,111.549mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (239.866mm,110.914mm) from Top Layer to Bottom Layer And Via (240.501mm,110.914mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (239.866mm,111.549mm) from Top Layer to Bottom Layer And Via (240.501mm,111.549mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (240.374mm,113.961mm) from Top Layer to Bottom Layer And Via (240.374mm,114.596mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (240.374mm,113.961mm) from Top Layer to Bottom Layer And Via (241.009mm,113.969mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (240.374mm,114.596mm) from Top Layer to Bottom Layer And Via (241.009mm,114.596mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (240.501mm,110.914mm) from Top Layer to Bottom Layer And Via (240.501mm,111.549mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (240.501mm,110.914mm) from Top Layer to Bottom Layer And Via (241.136mm,110.914mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (240.501mm,111.549mm) from Top Layer to Bottom Layer And Via (241.136mm,111.549mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.227mm < 0.254mm) Between Via (241.009mm,113.969mm) from Top Layer to Bottom Layer And Via (241.009mm,114.596mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (241.136mm,110.914mm) from Top Layer to Bottom Layer And Via (241.136mm,111.549mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.253mm < 0.254mm) Between Via (251.406mm,96.974mm) from Top Layer to Bottom Layer And Via (252.058mm,96.943mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.093mm < 0.254mm) Between Via (255.868mm,85.663mm) from Top Layer to Bottom Layer And Via (255.868mm,86.155mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.108mm < 0.254mm) Between Via (255.868mm,85.663mm) from Top Layer to Bottom Layer And Via (256.376mm,85.663mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.204mm < 0.254mm) Between Via (256.757mm,88.808mm) from Top Layer to Bottom Layer And Via (256.757mm,89.411mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (256.757mm,88.808mm) from Top Layer to Bottom Layer And Via (257.392mm,88.827mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.235mm < 0.254mm) Between Via (256.757mm,89.411mm) from Top Layer to Bottom Layer And Via (257.392mm,89.411mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.184mm < 0.254mm) Between Via (257.392mm,88.827mm) from Top Layer to Bottom Layer And Via (257.392mm,89.411mm) from Top Layer to Bottom Layer 
+Rule Violations :261
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 302
+Waived Violations : 0
+Time Elapsed        : 00:00:02

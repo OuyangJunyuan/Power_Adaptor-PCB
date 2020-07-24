@@ -1,0 +1,161 @@
+Added Component: Designator=H1(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H2(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H3(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H4(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H5(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H6(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H7(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H8(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H9(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H10(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H11(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H12(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H13(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H14(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H15(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H16(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H17(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H18(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H19(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H20(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H21(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H22(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H23(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H24(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H25(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H26(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H27(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H28(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H29(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H30(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H31(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H32(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H33(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H34(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H35(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H36(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H37(TX60-LI-P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H38(TX60PW-M20)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H39(TX60PW-M20)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H40(TX60PW-M20)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+12F Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-2
+Added Pin To Net: NetName=+12F Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-2
+Added Pin To Net: NetName=+12F Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-2
+Added Pin To Net: NetName=+24 Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-2
+Added Pin To Net: NetName=+24 Pin=H5-1
+Added Pin To Net: NetName=GND Pin=H5-2
+Added Pin To Net: NetName=+24 Pin=H6-1
+Added Pin To Net: NetName=GND Pin=H6-2
+Added Pin To Net: NetName=+24 Pin=H7-1
+Added Pin To Net: NetName=GND Pin=H7-2
+Added Pin To Net: NetName=+24 Pin=H8-1
+Added Pin To Net: NetName=GND Pin=H8-2
+Added Pin To Net: NetName=+24 Pin=H9-1
+Added Pin To Net: NetName=GND Pin=H9-2
+Added Pin To Net: NetName=+5F Pin=H10-1
+Added Pin To Net: NetName=GND Pin=H10-2
+Added Pin To Net: NetName=+5F Pin=H11-1
+Added Pin To Net: NetName=GND Pin=H11-2
+Added Pin To Net: NetName=+5F Pin=H12-1
+Added Pin To Net: NetName=GND Pin=H12-2
+Added Pin To Net: NetName=CAN_L Pin=H13-1
+Added Pin To Net: NetName=CAN_H Pin=H13-2
+Added Pin To Net: NetName=CAN_L Pin=H14-1
+Added Pin To Net: NetName=CAN_H Pin=H14-2
+Added Pin To Net: NetName=CAN_L Pin=H15-1
+Added Pin To Net: NetName=CAN_H Pin=H15-2
+Added Pin To Net: NetName=CAN_L Pin=H16-1
+Added Pin To Net: NetName=CAN_H Pin=H16-2
+Added Pin To Net: NetName=CAN_L Pin=H17-1
+Added Pin To Net: NetName=CAN_H Pin=H17-2
+Added Pin To Net: NetName=CAN_L Pin=H18-1
+Added Pin To Net: NetName=CAN_H Pin=H18-2
+Added Pin To Net: NetName=+24_2 Pin=H19-1
+Added Pin To Net: NetName=GND2 Pin=H19-2
+Added Pin To Net: NetName=+24_2 Pin=H20-1
+Added Pin To Net: NetName=GND2 Pin=H20-2
+Added Pin To Net: NetName=+24_2 Pin=H21-1
+Added Pin To Net: NetName=GND2 Pin=H21-2
+Added Pin To Net: NetName=+24_2 Pin=H22-1
+Added Pin To Net: NetName=GND2 Pin=H22-2
+Added Pin To Net: NetName=+24_2 Pin=H23-1
+Added Pin To Net: NetName=GND2 Pin=H23-2
+Added Pin To Net: NetName=+24_2 Pin=H24-1
+Added Pin To Net: NetName=GND2 Pin=H24-2
+Added Pin To Net: NetName=CAN_L Pin=H25-1
+Added Pin To Net: NetName=CAN_H Pin=H25-2
+Added Pin To Net: NetName=CAN_L Pin=H26-1
+Added Pin To Net: NetName=CAN_H Pin=H26-2
+Added Pin To Net: NetName=CAN_L Pin=H27-1
+Added Pin To Net: NetName=CAN_H Pin=H27-2
+Added Pin To Net: NetName=CAN_L Pin=H28-1
+Added Pin To Net: NetName=CAN_H Pin=H28-2
+Added Pin To Net: NetName=CAN_L Pin=H29-1
+Added Pin To Net: NetName=CAN_H Pin=H29-2
+Added Pin To Net: NetName=CAN_L Pin=H30-1
+Added Pin To Net: NetName=CAN_H Pin=H30-2
+Added Pin To Net: NetName=CAN_L Pin=H31-1
+Added Pin To Net: NetName=CAN_H Pin=H31-2
+Added Pin To Net: NetName=GND1 Pin=H32-2
+Added Pin To Net: NetName=GND1 Pin=H33-2
+Added Pin To Net: NetName=GND1 Pin=H34-2
+Added Pin To Net: NetName=GND1 Pin=H35-2
+Added Pin To Net: NetName=GND1 Pin=H36-2
+Added Pin To Net: NetName=GND1 Pin=H37-2
+Added Pin To Net: NetName=+24 Pin=H38-1
+Added Pin To Net: NetName=GND Pin=H38-2
+Added Pin To Net: NetName=+24_2 Pin=H39-1
+Added Pin To Net: NetName=GND2 Pin=H39-2
+Added Pin To Net: NetName=GND1 Pin=H40-2
+Added Pin To Net: NetName=+24_1 Pin=H32-1
+Added Pin To Net: NetName=+24_1 Pin=H33-1
+Added Pin To Net: NetName=+24_1 Pin=H34-1
+Added Pin To Net: NetName=+24_1 Pin=H35-1
+Added Pin To Net: NetName=+24_1 Pin=H36-1
+Added Pin To Net: NetName=+24_1 Pin=H37-1
+Added Pin To Net: NetName=+24_1 Pin=H40-1
+Added Net: Name=+24_1
